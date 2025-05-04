@@ -1,8 +1,18 @@
-# React + Vite
+# 🌍 WorldWise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**WorldWise** is a digital travel journal that helps you keep track of the places you've visited around the globe. With an interactive map interface, you can mark locations, add personal notes, and relive your adventures anytime.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Interactive Map Interface**: Visualize all your visited locations with markers on a dynamic map.
+- **Add Personal Notes**: Click on any location to add descriptions, memories, or adventures associated with that place.
+- **Manage Entries**: Easily add, view, and manage your travel entries.
+- **Responsive Design**: Accessible on various devices, ensuring a seamless experience whether you're on desktop or mobile.
+
+## 🛠️ Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **React Router DOM**: Declarative routing for React applications.
+- **Leaflet & React-Leaflet**: Interactive maps integration.
+- **Vite**: Next-generation frontend tooling for faster development.
+- **CSS Modules**: Scoped and modular CSS styling.
